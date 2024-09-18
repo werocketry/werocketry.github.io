@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Cameron K. Brooks et al."
-  avatar : "\assets\images\WE_Rocketry_Logo.jpg"
+  avatar : "/assets/images/WE_Rocketry_Logo.jpg"
   bio    : "We designing, building, and launching high-powered rockets.""
   links:
     - label: "Website"
