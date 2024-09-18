@@ -60,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Cameron K. Brooks et al."
+  name   : "Cameron Brooks et al"
   avatar : "/assets/images/WE_Rocketry_Logo.jpg"
   bio    : "We designing, building, and launching high-powered rockets.""
   links:
