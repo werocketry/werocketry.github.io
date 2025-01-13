@@ -3,8 +3,6 @@ permalink: /sponsor/
 title: "Sponsor Us"
 ---
 
-# Sponsor Us
-
 Join us in advancing rocketry innovation! By sponsoring the Western Engineering Rocketry Team, you:
 
 - Empower student-led engineering excellence.
