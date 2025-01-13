@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-# About WE Rocketry
-
 Welcome to the Western Engineering Rocketry Team (WERT), a passionate, student-led engineering team at Western University in London, Ontario, Canada. Since our founding in 2016, we have dedicated ourselves to the innovation, design, and launch of high-powered rockets for the Intercollegiate Rocket Engineering Competition (IREC) at the Spaceport America Cup—the world’s largest intercollegiate rocketry competition.
 
 ## Our Mission
