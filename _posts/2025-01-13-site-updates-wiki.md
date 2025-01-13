@@ -1,5 +1,5 @@
 ---
-title: "New Wiki and Updated Target Height: Key Updates for the Season"
+title: "New Wiki and Updated Target Height"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
