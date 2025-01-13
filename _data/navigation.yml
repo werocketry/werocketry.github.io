@@ -3,9 +3,9 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "Wiki"
-    url: https://we-rocketry.github.io/wiki/
   - title: "Sponsor"
     url: /sponsor/
   - title: "Contact"
     url: /contact/
+  - title: "Wiki"
+    url: https://we-rocketry.github.io/wiki/
