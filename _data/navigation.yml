@@ -5,7 +5,7 @@ main:
     url: /posts/
   - title: "Wiki"
     url: https://we-rocketry.github.io/wiki/
-  - title: "Contact"
-    url: /contact-us/
   - title: "Sponsor"
     url: /sponsor-us/
+  - title: "Contact"
+    url: /contact-us/
