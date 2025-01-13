@@ -31,12 +31,12 @@ Our team continues to reach new milestones every year. During the 2022-2024 seas
 
 We’re always looking for new members! Whether you’re an engineering student or someone with a passion for rocketry, WE Rocketry is the place for you. Join us and be part of a team that constantly strives for excellence in rocketry.
 
-For more information, visit our [website](https://werocketry.western-ues.com) or check out our [contact page](https://www.werocketry.western-ues.com/contact-us).
+For more information, visit our [website](https://werocketry.western-ues.com) or check out our [contact page](https://www.werocketry.western-ues.com/contact).
 
 ## Sponsors and Contributions
 
-Our accomplishments wouldn’t be possible without the generous support of our sponsors. If you’re interested in sponsoring us, please visit our [sponsorship page](https://www.werocketry.com/sponsor-us). Your contributions help us innovate and achieve new heights.
+Our accomplishments wouldn’t be possible without the generous support of our sponsors. If you’re interested in sponsoring us, please visit our [sponsorship page](https://www.werocketry.western-ues.com/sponsor). Your contributions help us innovate and achieve new heights.
 
-Stay connected with us on [Instagram](https://www.instagram.com/westernrocketry) and [Facebook](https://www.facebook.com/WERocketry).
+Stay connected with us on [Instagram](https://www.instagram.com/werocketry/) and [Facebook](https://www.facebook.com/WERocketry).
 
 Let’s launch into the future, together!
