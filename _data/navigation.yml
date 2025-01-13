@@ -1,11 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Contact"
+  - title: "Posts"
+    url: /posts/
   - title: "Wiki"
     url: https://we-rocketry.github.io/wiki/
+    url: /contact-us/
+  - title: "Sponsor"
+    url: /sponsor-us/
