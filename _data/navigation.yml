@@ -9,3 +9,4 @@ main:
     url: /contact/
   - title: "Wiki"
     url: https://we-rocketry.github.io/wiki/
+    target: _blank
