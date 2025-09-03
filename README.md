@@ -1,10 +1,12 @@
-<img src="assets/images/WE_Rocketry_Logo.jpg" alt="WE Rocketry Logo" style="width: 200px;"/>
-
 # WE Rocketry Website - werocketry.github.io
 
 This repository hosts the official website for WE Rocketry, built using [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme. It serves as the primary platform to share information about our team, projects, and events.
 
 The site uses the Minimal Mistakes theme to provide a clean and functional design, with features like blog posts, an author sidebar, and archive pages.
+
+<div align="center">
+  <img src="assets/images/WE_Rocketry_Logo.jpg" alt="WE Rocketry Logo" style="width: 100px;"/>
+</div>
 
 ---
 
