@@ -8,5 +8,5 @@ main:
   - title: "Contact"
     url: /contact/
   - title: "Wiki"
-    url: https://we-rocketry.github.io/wiki/
-    target: _blank
+    url: /wiki/
+    target: _blank # open in a new tab
