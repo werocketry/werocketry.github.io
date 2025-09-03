@@ -5,7 +5,7 @@ This repository hosts the official website for WE Rocketry, built using [Jekyll]
 The site uses the Minimal Mistakes theme to provide a clean and functional design, with features like blog posts, an author sidebar, and archive pages.
 
 <div align="center">
-  <img src="assets/images/WE_Rocketry_Logo.jpg" alt="WE Rocketry Logo" style="width: 100px;"/>
+  <img src="assets/images/WE_Rocketry_Logo.jpg" alt="WE Rocketry Logo" style="width: 200px;"/>
 </div>
 
 ---
