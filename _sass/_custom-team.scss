@@ -8,11 +8,16 @@
   text-align: center;
 }
 .team-member img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 0.5rem;
+  width: 150px !important;
+  height: 150px !important;
+  max-width: 150px !important;
+  max-height: 150px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  margin-bottom: 0.5rem !important;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 .team-member .name {
   color: $primary-color !important;
