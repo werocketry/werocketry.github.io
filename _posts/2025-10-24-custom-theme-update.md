@@ -1,5 +1,5 @@
 ---
-title: "Website Gets Western Purple Theme"
+title: "Website Gets Makeover"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
