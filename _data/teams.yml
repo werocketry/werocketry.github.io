@@ -1,0 +1,96 @@
+2025:
+  - name: Dylan Peters
+    position: Captain
+    program: Mechanical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Alex Harnden
+    position: Vice President, External
+    program: Mechanical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Matt Proulx
+    position: Vice President, Finance and Administration
+    program: Mechatronic Systems Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Liam Freeman
+    position: Aerostructures and Mechanical Systems Lead
+    program: Mechanical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Nolan Roest
+    position: Avionics Lead
+    program: Software Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Kayla Newbatt
+    position: Engine Lead
+    program: Chemical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Cameron Brooks
+    position: Technical Advisor
+    program: Electrical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Prof. John Makaran, Ph.D.
+    position: Faculty Advisor
+    program: Department of Mechanical and Material Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+2024:
+  - name: Cameron Brooks
+    position: Team Lead
+    program: Electrical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Dylan Peters
+    position: Team Lead - Hybrid
+    program: Mechanical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Liam Freeman
+    position: Payload Lead
+    program: Mechanical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Anikate Guleria
+    position: Airbrakes Lead
+    program: Electrical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Nazar Yakubiv
+    position: Airbrakes Lead
+    program: Electrical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Alex Harnden
+    position: Recovery Lead
+    program: Mechanical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Nathan Nguyen
+    position: Aerostructures Lead
+    program: Mechanical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Daniel Romero
+    position: Avionics Lead
+    program: Electrical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Kayla Newbatt
+    position: Propulsion Lead
+    program: Chemical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Owen Watson
+    position: Propulsion Lead
+    program: Chemical Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
+  - name: Prof. John Makaran, Ph.D.
+    position: Faculty Advisor
+    program: Department of Mechanical and Material Engineering
+    image: /assets/images/team/profile_placeholder.jpg
