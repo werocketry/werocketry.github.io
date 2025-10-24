@@ -1,0 +1,38 @@
+/* Base */
+$background-color: #ffffff !default;
+$text-color: #2b2f33 !default; // neutral dark text for body and footer
+
+/* Brand accents */
+$primary-color: #4f2683 !default; // Western Purple (links, buttons)
+$secondary-color: #8f55e0 !default; // Orchid (minor accents)
+$accent-color: #7deafb !default; // Sky (optional highlights)
+
+/* Surfaces */
+$border-color: mix(#000, $background-color, 12%) !default; // subtle light gray
+$code-background-color: mix(#000, $background-color, 5%) !default;
+$code-background-color-dark: mix(#000, $background-color, 10%) !default;
+$form-background-color: mix(#000, $background-color, 3%) !default;
+
+/* Footer: slightly darker primary color surface so text reads well */
+$footer-background-color: mix(#000, $primary-color, 6%) !default; // ~#F3F3F3
+
+/* Links: keep purple but tone down hover */
+$link-color: $primary-color !default;
+$link-color-hover: mix(
+  #000,
+  $link-color,
+  15%
+) !default; // darker on hover
+$link-color-visited: mix(#000, $link-color, 25%) !default;
+
+$masthead-link-color: $primary-color !default; // masthead uses neutral text
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$navicon-link-color-hover: mix(#000, $background-color, 15%) !default;
+
+/* Notices */
+$notice-background-mix: 98% !default;
+$code-notice-background-mix: 99% !default;
+
+/* Syntax highlighting accents */
+$base08: $accent-color !default;
+$base0e: $secondary-color !default;
