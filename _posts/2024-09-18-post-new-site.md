@@ -6,11 +6,14 @@ categories:
 tags:
   - Announcements
   - 2024-2025 Season
+  - Website Updates
 ---
 
-We are thrilled to unveil our new website as WE Rocketry prepares for an exciting 2024-2025 season! As a student-led team at Western University, we’ve dedicated ourselves to designing, building, and launching high-powered rockets since 2016. This year promises to bring more innovation, collaboration, and competitive spirit as we push the limits of engineering.
+We are thrilled to unveil our new website as WE Rocketry prepares for an exciting 2024-2025 season!
 
 <!--more-->
+
+As a student-led team at Western University, we’ve dedicated ourselves to designing, building, and launching high-powered rockets since 2016. This year promises to bring more innovation, collaboration, and competitive spirit as we push the limits of engineering.
 
 ## Looking Forward to 2024-2025 🚀
 

@@ -8,9 +8,11 @@ tags:
   - 2024-2025 Season
 ---
 
-We’ve had a busy start to the year with plenty of exciting updates to share! Here’s a quick rundown of what we’ve been up to:
+We’ve had a busy start to the year with plenty of exciting updates to share!
 
 <!--more-->
+
+Here’s a quick rundown of what we’ve been up to:
 
 ## Updates: New Pages, Wiki, and SRAD Progress
 
