@@ -94,3 +94,15 @@
     position: Faculty Advisor
     program: Department of Mechanical and Material Engineering
     image: /assets/images/team/profile_placeholder.jpg
+
+2023:
+  - name: Jess Kerr
+    position: Team Lead
+    program: Mechanical Engineering & Computer Science
+    image: /assets/images/team/profile_placeholder.jpg
+    
+ - name: TODO
+    position: Team
+    program: Engineering
+    image: /assets/images/team/profile_placeholder.jpg
+
