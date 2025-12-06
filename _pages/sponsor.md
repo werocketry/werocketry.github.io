@@ -13,7 +13,7 @@ Your support directly funds materials, tools, and competition travel. For more d
 
 - **Email**: [sponsor@werocketry.com](mailto:sponsor@werocketry.com)
 - **Sponsorship Brochure**:
-  - [Download Here](../assets/files/watermarked_werocketry_sponsorship_package_2024-2025.pdf){:download="watermarked_werocketry_sponsorship_package_2024-2025.pdf"}
-  - [View It](../assets/files/watermarked_werocketry_sponsorship_package_2024-2025.pdf)
+  - [Download Here](../assets/files/werocketry_sponsorship_package_2025-2026.pdf){:download="werocketry_sponsorship_package_2025-2026.pdf"}
+  - [View It](../assets/files/werocketry_sponsorship_package_2025-2026.pdf)
 
 Let’s build the future of rocketry—together!
